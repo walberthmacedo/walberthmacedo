@@ -14,7 +14,7 @@
     <li>Banco de dados: MySQL, PostgreSQL</li>
   </ul>
   <div>
-    <img height="230em" src="https://github.com/walberthmacedo/walberthmacedo/assets/107803555/e189178d-d68f-460b-9c78-9ef91b7dc91b">
+   <a> <img height="230em" src="https://github.com/walberthmacedo/walberthmacedo/assets/107803555/e189178d-d68f-460b-9c78-9ef91b7dc91b"></a>
   </div>
 
   <h2>Projetos Destacados</h2>
