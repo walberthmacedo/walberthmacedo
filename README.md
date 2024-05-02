@@ -35,7 +35,7 @@
   <p>Se você encontrou algum problema em algum dos meus projetos ou tem alguma sugestão de melhoria, fique à vontade para abrir uma issue ou enviar um pull request. Sua contribuição é sempre bem-vinda!</p>
 
   <h2>Contato</h2>
-  <p>Você pode entrar em contato comigo através do meu email <a href="walberthmacedojff@gmail.com">walberthmacedojff@gmail.com</a> ou visitar meu <a href="https://walberthmacedo.epize.com">[site pessoal](http://walberthmacedo.epizy.com/)</a> para saber mais sobre mim e meus projetos.</p>
+  <p>Você pode entrar em contato comigo através do meu email <a href="walberthmacedojff@gmail.com">walberthmacedojff@gmail.com</a> ou visitar meu site <a href="https://walberthmacedo.epize.com">walberthmacedo.epize.com</a> para saber mais sobre mim e meus projetos.</p>
 
   <p>Obrigado por visitar o meu GitHub e espero que você encontre algo interessante aqui!</p>
 </div>
