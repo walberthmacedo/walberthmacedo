@@ -8,9 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&amp;label=PROFILE+VIEWS&amp;color=1F6FEB&amp;style=for-the-badge&amp;labelColor=000000" alt="visitor badge"/>
-<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=FOLLOWERS&amp;style=for-the-badge&amp;color=1F6FEB&amp;labelColor=000000" alt="followers"/>
-<img src="https://img.shields.io/badge/STATUS-Aberto_a_oportunidades-1F6FEB?style=for-the-badge&amp;labelColor=000000" alt="status"/>
+
 
 </div>
 
