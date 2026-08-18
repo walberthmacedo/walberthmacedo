@@ -1,13 +1,13 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:FF00C1,100:00F5FF&height=260&section=header&text=WALBERTH&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%3C%2F%3E%20Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%"/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:0A2647,100:1F6FEB&amp;height=260&amp;section=header&amp;text=WALBERTH&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=%3C%2F%3E%20Full%20Stack%20Developer&amp;descAlignY=55&amp;descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:000000,100:1F6FEB&amp;height=4&amp;width=100%25" width="100%"/>
 <a href="https://github.com/SEU_USUARIO">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=FF00C1&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Walberth+%F0%9F%91%8B;Desenvolvedor+Fullstack+%F0%9F%92%BB;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=900&amp;color=1F6FEB&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Ol%C3%A1%2C+eu+sou+o+Walberth+%F0%9F%91%8B;Desenvolvedor+Fullstack+%F0%9F%92%BB;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE+VIEWS&color=FF00C1&style=for-the-badge" alt="visitor badge"/>
-<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=FOLLOWERS&style=for-the-badge&color=8E2DE2" alt="followers"/>
-<img src="https://img.shields.io/badge/STATUS-Aberto_a_oportunidades-00F5FF?style=for-the-badge" alt="status"/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&amp;label=PROFILE+VIEWS&amp;color=1F6FEB&amp;style=for-the-badge&amp;labelColor=000000" alt="visitor badge"/>
+<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=FOLLOWERS&amp;style=for-the-badge&amp;color=1F6FEB&amp;labelColor=000000" alt="followers"/>
+<img src="https://img.shields.io/badge/STATUS-Aberto_a_oportunidades-1F6FEB?style=for-the-badge&amp;labelColor=000000" alt="status"/>
 </div>
 <br/>
 🧑‍💻 Sobre mim
@@ -27,7 +27,14 @@ const walberth = {
 <br/>
 ⚡ Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,php,html,css,react,nodejs,mysql,postgres,mongodb,django,git,github,vscode,figma&theme=dark&perline=7" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=js,php,html,css,react,nodejs,mysql,postgres,mongodb,django,git,github,vscode,figma&amp;theme=dark&amp;perline=7" alt="Skills"/>
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&amp;logo=javascript&amp;logoColor=1F6FEB"/>
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&amp;logo=php&amp;logoColor=1F6FEB"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&amp;logo=react&amp;logoColor=1F6FEB"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&amp;logo=node.js&amp;logoColor=1F6FEB"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&amp;logo=mysql&amp;logoColor=1F6FEB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&amp;logo=postgresql&amp;logoColor=1F6FEB"/>
 </div>
 <br/>
 🚀 Projetos Destacados
@@ -36,29 +43,29 @@ const walberth = {
     <td width="50%" valign="top">
       <h3>🛒 E-commerce App</h3>
       <p>Aplicativo de comércio eletrônico completo com carrinho de compras, autenticação de usuários e integração com API de pagamento.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&amp;logo=react&amp;logoColor=1F6FEB"/>
+      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&amp;logo=node.js&amp;logoColor=1F6FEB"/>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=000000"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>✅ Sistema de Gerenciamento de Tarefas</h3>
       <p>Sistema web para criar, editar e excluir tarefas, com atribuição de responsáveis e definição de prazos.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&amp;logo=react&amp;logoColor=1F6FEB"/>
+      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&amp;logo=node.js&amp;logoColor=1F6FEB"/>
+      <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&amp;logo=mongodb&amp;logoColor=1F6FEB"/>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=000000"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📝 Blog Pessoal</h3>
       <p>Blog para compartilhar experiências e conhecimentos em programação, com autenticação de usuários, criação de posts e comentários.</p>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-000000?style=flat-square&amp;logo=django&amp;logoColor=1F6FEB"/>
+      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&amp;logo=python&amp;logoColor=1F6FEB"/>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=000000"/></a>
     </td>
     <td width="50%" align="center" valign="middle">
       <h3>✨ Seu próximo projeto</h3>
@@ -69,19 +76,19 @@ const walberth = {
 <br/>
 🏆 Troféus
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&amp;theme=darkhub&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8" alt="trophies"/>
 </div>
 <br/>
 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;bg_color=000000&amp;title_color=1F6FEB&amp;icon_color=1F6FEB&amp;text_color=ffffff" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&amp;layout=compact&amp;hide_border=true&amp;bg_color=000000&amp;title_color=1F6FEB&amp;text_color=ffffff" alt="Top Languages"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&amp;hide_border=true&amp;background=000000&amp;ring=1F6FEB&amp;fire=1F6FEB&amp;currStreakLabel=1F6FEB&amp;sideLabels=1F6FEB&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=ffffff" alt="GitHub Streak"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&amp;hide_border=true&amp;bg_color=000000&amp;color=1F6FEB&amp;line=1F6FEB&amp;point=ffffff&amp;title_color=ffffff&amp;area=true&amp;area_color=1F6FEB" alt="Activity Graph" width="90%"/>
 </div>
 <br/>
 🐍 Snake das Contribuições
@@ -98,11 +105,11 @@ Encontrou algum problema em algum dos meus projetos ou tem uma sugestão de melh
 <br/>
 📫 Vamos nos conectar
 <div align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=1F6FEB"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&amp;logo=instagram&amp;logoColor=1F6FEB"/></a>
+<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&amp;logo=gmail&amp;logoColor=1F6FEB"/></a>
+<a href="#"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=1F6FEB"/></a>
 </div>
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:FF00C1,100:8E2DE2&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F6FEB,50:0A2647,100:000000&amp;height=140&amp;section=footer" width="100%"/>
 </div>
