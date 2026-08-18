@@ -92,38 +92,7 @@ const walberth = {
 
 <br/>
 
-## 🏆 Troféus
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&amp;theme=darkhub&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8" alt="trophies"/>
-</div>
-
-<br/>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;bg_color=000000&amp;title_color=1F6FEB&amp;icon_color=1F6FEB&amp;text_color=ffffff" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&amp;layout=compact&amp;hide_border=true&amp;bg_color=000000&amp;title_color=1F6FEB&amp;text_color=ffffff" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&amp;hide_border=true&amp;background=000000&amp;ring=1F6FEB&amp;fire=1F6FEB&amp;currStreakLabel=1F6FEB&amp;sideLabels=1F6FEB&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=ffffff" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&amp;hide_border=true&amp;bg_color=000000&amp;color=1F6FEB&amp;line=1F6FEB&amp;point=ffffff&amp;title_color=ffffff&amp;area=true&amp;area_color=1F6FEB" alt="Activity Graph" width="90%"/>
-</div>
-
-<br/>
-
-## 🐍 Snake das Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
-</div>
-
-> ⚙️ Essa cobrinha "comendo" seu gráfico de contribuições **não vem pronta** — precisa de uma GitHub Action rodando no seu repositório de perfil. Te deixei o arquivo `snake.yml` pronto pra isso, é só ler as instruções logo abaixo.
 
 <br/>
 
