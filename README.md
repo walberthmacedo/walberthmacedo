@@ -1,5 +1,14 @@
 <div align="center">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:0A2647,100:1F6FEB&amp;height=260&amp;section=header&amp;text=WALBERTH&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=%3C%2F%3E%20Full%20Stack%20Developer&amp;descAlignY=55&amp;descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:000000,100:1F6FEB&amp;height=4&amp;width=100%25" width="100%"/>
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=900&amp;color=1F6FEB&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Ol%C3%A1%2C+eu+sou+o+Walberth+%F0%9F%91%8B;Desenvolvedor+Fullstack+%F0%9F%92%BB;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&amp;label=PROFILE+VIEWS&amp;color=1F6FEB&amp;style=for-the-badge&amp;labelColor=000000" alt="visitor badge"/>
+<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=FOLLOWERS&amp;style=for-the-badge&amp;color=1F6FEB&amp;labelColor=000000" alt="followers"/>
+<img src="https://img.shields.io/badge/STATUS-Aberto_a_oportunidades-1F6FEB?style=for-the-badge&amp;labelColor=000000" alt="status"/>
+</div>
 <br/>
 🧑‍💻 Sobre mim
 ```javascript
