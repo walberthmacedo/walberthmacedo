@@ -62,6 +62,7 @@ const walberth = {
      
   <br/>
       <a href="https://github.com/walberthmacedo/Sistema-de-Notifica-es-E-commerce-API-REST.git"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=000000"/></a>
+      </td>
     <td width="50%" valign="top">
       <h3>Ponto de Venda (PDV) web</h3>
       <p>Sistema de Ponto de Venda (PDV) web em PHP puro (sem framework) com banco de dados MySQL/MariaDB e frontend em HTML/CSS/JS vanilla (Chart.js via CDN para gráficos).</p>
