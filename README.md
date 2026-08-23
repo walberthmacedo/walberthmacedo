@@ -87,7 +87,7 @@ Encontrou algum problema em algum dos meus projetos ou tem uma sugestão de melh
 
 <div align="center">
 
-<a href="in/walberth-pereira-macedo-7115a4234"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=1F6FEB"/></a>
+<a href="www.linkedin.com/in/walberth-pereira-macedo-7115a4234"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=1F6FEB"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&amp;logo=instagram&amp;logoColor=1F6FEB"/></a>
 <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&amp;logo=gmail&amp;logoColor=1F6FEB"/></a>
 <a href="#"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=1F6FEB"/></a>
