@@ -58,7 +58,7 @@ const walberth = {
   <tr>
     <td width="50%" valign="top">
       <h3>🛒Sistema-de-Notifica-es-E-commerce-API-REST</h3>
-      <p>Aplicativo de comércio eletrônico completo com carrinho de compras, autenticação de usuários e integração com API de pagamento.</p>
+      <p>Fluxo principal: 1. Usuário se autentica via Google OAuth 2. Evento do e-commerce dispara criação de notificação 3. Sistema de consulta personalizada do usuário 4. Publica na fila para cada canal ativo 5. Workers enviam em background 6. Frontend recebe em tempo real via Socket.io</p>
       <img src="https://img.shields.io/badge/React-000000?style=flat-square&amp;logo=react&amp;logoColor=1F6FEB"/>
       <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&amp;logo=node.js&amp;logoColor=1F6FEB"/>
       <br/><br/>
