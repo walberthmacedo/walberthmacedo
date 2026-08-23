@@ -63,8 +63,7 @@ const walberth = {
       <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&amp;logo=node.js&amp;logoColor=1F6FEB"/>
       <br/><br/>
       <a href="https://github.com/walberthmacedo/Sistema-de-Notifica-es-E-commerce-API-REST.git"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=000000"/></a>
-    </td>
-  </tr>
+ 
  
 <tr>
     <td width="50%" valign="top">
