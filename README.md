@@ -74,7 +74,7 @@ const walberth = {
       <h3>Cardápio Digital Multi-Tenant</h3>
       <p>Sistema de cardápio digital para restaurantes com pedidos online, fidelidade, cupons de desconto, combos, mesas (QR Code), agendamento e notificações push. Modelo multi-tenant: cada restaurante é uma "loja" (tenant) isolada, com dados completamente separados.</p>
       <br><br>
-      <a href="https://github.com/walberthmacedo/Sistema-de-Ponto-de-Venda-PDV-web.git"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=000000"/></a>
+      <a href="https://github.com/walberthmacedo/Card-pio-Digital-Multi-Tenant.git"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=000000"/></a>
     </td>
   <tr>
     
