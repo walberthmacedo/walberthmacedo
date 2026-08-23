@@ -63,9 +63,6 @@ const walberth = {
       <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&amp;logo=node.js&amp;logoColor=1F6FEB"/>
       <br/><br/>
       <a href="https://github.com/walberthmacedo/Sistema-de-Notifica-es-E-commerce-API-REST.git"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=000000"/></a>
- 
- 
-<tr>
     <td width="50%" valign="top">
       <h3>🛒Sistema-de-Notifica-es-E-commerce-API-REST</h3>
       <p>Fluxo principal: 1. Usuário se autentica via Google OAuth 2. Evento do e-commerce dispara criação de notificação 3. Sistema de consulta personalizada do usuário 4. Publica na fila para cada canal ativo 5. Workers enviam em background 6. Frontend recebe em tempo real via Socket.io</p>
