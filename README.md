@@ -57,7 +57,7 @@ const walberth = {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 E-commerce App</h3>
+      <h3>🛒Sistema-de-Notifica-es-E-commerce-API-REST</h3>
       <p>Aplicativo de comércio eletrônico completo com carrinho de compras, autenticação de usuários e integração com API de pagamento.</p>
       <img src="https://img.shields.io/badge/React-000000?style=flat-square&amp;logo=react&amp;logoColor=1F6FEB"/>
       <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&amp;logo=node.js&amp;logoColor=1F6FEB"/>
