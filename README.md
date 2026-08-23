@@ -62,32 +62,9 @@ const walberth = {
       <img src="https://img.shields.io/badge/React-000000?style=flat-square&amp;logo=react&amp;logoColor=1F6FEB"/>
       <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&amp;logo=node.js&amp;logoColor=1F6FEB"/>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=000000"/></a>
+      <a href="https://github.com/walberthmacedo/Sistema-de-Notifica-es-E-commerce-API-REST.git"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=000000"/></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>✅ Sistema de Gerenciamento de Tarefas</h3>
-      <p>Sistema web para criar, editar e excluir tarefas, com atribuição de responsáveis e definição de prazos.</p>
-      <img src="https://img.shields.io/badge/React-000000?style=flat-square&amp;logo=react&amp;logoColor=1F6FEB"/>
-      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&amp;logo=node.js&amp;logoColor=1F6FEB"/>
-      <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&amp;logo=mongodb&amp;logoColor=1F6FEB"/>
-      <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=000000"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📝 Blog Pessoal</h3>
-      <p>Blog para compartilhar experiências e conhecimentos em programação, com autenticação de usuários, criação de posts e comentários.</p>
-      <img src="https://img.shields.io/badge/Django-000000?style=flat-square&amp;logo=django&amp;logoColor=1F6FEB"/>
-      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&amp;logo=python&amp;logoColor=1F6FEB"/>
-      <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=000000"/></a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <h3>✨ Seu próximo projeto</h3>
-      <p>Reserve este espaço para o que você está construindo agora.</p>
-    </td>
-  </tr>
+ 
 </table>
 
 <br/>
